@@ -1,6 +1,8 @@
 #ファイル
 .DS_Store
 config.rb
+sass/style.scss
+stylesheets/style.css
 
 
 #ディレクトリ
