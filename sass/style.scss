@@ -1,0 +1,60 @@
+@import
+	"compass",
+	"compass/reset"
+;
+
+//共通
+h1{
+	font-size: 3rem;
+	font-weight: bold;
+	margin: 1rem 0;
+}
+
+h2{
+	font-size: 2rem;
+}
+
+p{
+	margin-bottom: 1rem;
+}
+.content{
+	width: 50rem;
+	margin: 0 auto;
+}
+
+// トップページ
+.site-top{
+	h1{
+		text-align: center;
+	}
+	p{
+		text-align: center;
+	}
+
+	.content{
+		border: 1px solid red; //テスト用
+	}
+
+	.color-sample{
+
+		ul{
+			list-style: none;
+		}
+
+		span{
+			display: inline-block;
+			width: 3rem;
+			height: 3rem;
+			@include border-radius(10000px);
+
+			//見えずらい色
+			&.white{
+				border: 1px solid #cfcfcf;
+			}
+			&.water{
+				border: 1px solid aqua;
+			}
+			// padding: 2rem 0;
+		}
+	}
+}

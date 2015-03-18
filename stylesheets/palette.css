@@ -1,0 +1,40 @@
+/* line 2, ../sass/palette.scss */
+.pt.bg.black {
+  background-color: black;
+}
+/* line 3, ../sass/palette.scss */
+.pt.bg.white {
+  background-color: white;
+}
+/* line 4, ../sass/palette.scss */
+.pt.bg.red {
+  background-color: red;
+}
+/* line 5, ../sass/palette.scss */
+.pt.bg.lightgreen {
+  background-color: lime;
+}
+/* line 6, ../sass/palette.scss */
+.pt.bg.blue {
+  background-color: blue;
+}
+/* line 7, ../sass/palette.scss */
+.pt.bg.yellow {
+  background-color: yellow;
+}
+/* line 8, ../sass/palette.scss */
+.pt.bg.lightblue {
+  background-color: cyan;
+}
+/* line 9, ../sass/palette.scss */
+.pt.bg.pink {
+  background-color: magenta;
+}
+/* line 11, ../sass/palette.scss */
+.pt.bg.red-4.blue-4 {
+  background-color: #7f7f00;
+}
+/* line 12, ../sass/palette.scss */
+.pt.bg.red-4.blue-4.water-9 {
+  background-color: rgba(127, 127, 0, 0.1);
+}

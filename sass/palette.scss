@@ -1,0 +1,13 @@
+.pt{
+	&.bg.black{      background-color : rgb(0%,0%,0%) }
+	&.bg.white{      background-color : rgb(100%,100%,100%) }
+	&.bg.red{        background-color : rgb(100%,0%,0%) }
+	&.bg.lightgreen{ background-color : rgb(0%,100%,0%) }
+	&.bg.blue{       background-color : rgb(0%,0%,100%) }
+	&.bg.yellow{     background-color : rgb(100%,100%,0%) }
+	&.bg.lightblue{  background-color : rgb(0%,100%,100%) }
+	&.bg.pink{       background-color : rgb(100%,0%,100%) }
+
+	&.bg.red-4.blue-4{ background-color: rgb(50%,50%,0%) }
+	&.bg.red-4.blue-4.water-9{ background-color: rgba(50%,50%,0%,.1) }
+}
